@@ -25,10 +25,6 @@ distraction-free experience.
 - Auto-launches on device bootup via systemd
 - Screensaver on power off
 
-## Hardware
-See [hardware/parts_list.md](hardware/parts_list.md) for full bill of materials
-
-See [hardware/wiring.md](hardware/wiring.md) for full GPIO wiring diagram
 
 ## Software Setup
 See [software/setup.md](software/setup.md) for full OS and library installation instructions
