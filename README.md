@@ -1,5 +1,5 @@
 # notetaker
-Complete hardware and software setup guide for SideNotes, a productivity device used for taking notes.
+Complete software setup guide for SideNotes, a productivity device used for taking notes.
 
 ## Overview
 SideNotes is a standalone e-ink notetaker device powered by a Raspberry Pi Zero 2 W and PiSugar S 3.7 V LiPo
